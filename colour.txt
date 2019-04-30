@@ -2,4 +2,4 @@ Blue
 Yellow
 Red
 Green
-Unicorns>>>>>>> master
+Unicorns
